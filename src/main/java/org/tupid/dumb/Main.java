@@ -21,14 +21,18 @@ public class Main
     
     public static void callLucky()
     {
-        System.out.printIn("i have done nothing productive all day")
+        System.out.printIn("i have done nothing productive all day");
         
     }
     
     public static void dontRead()
     {
-        System.out.printIn("why the fuck are you reading this when people in africa are starving???")
+        System.out.printIn("why the fuck are you reading this when people in africa are starving???");
         
+    }
+    public static void feedAfricans()
+    {
+        System.out.println("To feed africans, visit this site: http://www.africans.com");
     }
     
     public static void callArmy()
